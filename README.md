@@ -18,7 +18,7 @@ Welcome to my github profile.
 
 🔭 I’m currently working as a software engineer in Principal Global Services, Pune.
 
-🌱 I’m currently learning AWS and MERN stack.
+🌱 My skills include Java, Oracle and JS and I’m currently learning AWS and MERN stack.
 
 📫 How to reach me:
 1. My email id is anubhav823@gmail.com
