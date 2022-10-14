@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/anubhavjain9015" target="blank"><img src="https://img.shields.io/twitter/follow/anubhavjain9015?logo=twitter&style=for-the-badge" alt="anubhavjain9015" /></a> </p>
 
+- 🌱 I’m currently learning **MERN, AWS**
+
+- 💬 Ask me about **Spring Boot, JS**
+
+- 📫 How to reach me **anubhav823@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anubhav823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anubhav823" height="30" width="40" /></a>
