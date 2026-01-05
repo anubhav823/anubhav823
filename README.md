@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Jain</h1>
-<h3 align="center">I am working as a software engineer with a focus on Spring Boot, ReactJS and NoSQL</h3>
+<h3 align="center">My job title says senior software engineer working with a focus on Spring Boot, ReactJS, AWS and NoSQL. But I like working with ML and AI as well.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav823&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav823" /> </p>
 
