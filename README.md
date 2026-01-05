@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN, AWS**
 
-- 💬 Ask me about **Spring Boot, JS**
+- 💬 Ask me about **Spring Boot, JS, ML and GenAI**
 
 - 📫 How to reach me **anubhav823@gmail.com**
 
