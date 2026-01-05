@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anubhavjain9015" target="blank"><img src="https://img.shields.io/twitter/follow/anubhavjain9015?logo=twitter&style=for-the-badge" alt="anubhavjain9015" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, AWS**
+- 🌱 I’m currently learning **GenAI and how to create LLMs**
 
 - 💬 Ask me about **Spring Boot, JS, ML and GenAI**
 
